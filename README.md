@@ -6,6 +6,6 @@ Make a LED strip using a raspberry pi or an Arduino and a sn74hc595n. Based on t
 
 * 1x raspberry
 * 1x sn74hc595n
-* 10x leds
-* 10 220 ohms resistors
+* 8x leds
+* 8x 220 ohms resistors
 * Some dupont wires 
